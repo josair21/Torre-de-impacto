@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project filever="1.0">
+	<AddrInfo ScrnNo="1" HasNoPlcAddr="1">
+	</AddrInfo>
+<AddrInfo ScrnNo="0" HasNoPlcAddr="0">
+
+<PLCAddr>
+<WordAddr>
+<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:D:12:0:25600" Len="2" Fast="0"/>
+<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:D:12:0:25600" Len="1" Fast="0"/></WordAddr></PLCAddr></AddrInfo></project>

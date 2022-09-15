@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project filever="1.0" ProjectVer="1.0">
+	<DataGrpSet>
+		<Group ID="1" Vession="1" Timer="5" FastSample="0" FastTimmer="0" MaxSize="2.48" MaxRecord="39945" Trigger="0" TriggAddr="" ChannelCount="1" UseTimerAddr="0" TimerAddr="" UseSampleValue="0" SampleValue="0" FileName="PRESIONES">
+			<Data ID="1" Name="PRESION 1Channel1Channel1Channel1Channel1Channel1Channel1Channel1" WordAddr="D12" DataFormat="206" IsBitCollect="0" ByteLen="2" DigitCount="3.1"/></Group></DataGrpSet>
+</project>

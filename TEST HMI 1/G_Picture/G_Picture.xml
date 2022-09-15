@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<G_Picture G_PictureVer="2.0">
+	<G_bmplib SaveAsJpg="0" CurBmpTotal="4" AllBmpTotal="4" G_bmplib.blb_CT="20200208  12:28:09" G_bmplib.blb_MT="20200208  12:28:09">
+		<G_bmp szFilename="7inch-background_10" nId="1" nTotalStatus="1" nWidth="800" nHeigth="480" nFileSize="1152040" bTransparent="0" cTransColor="0" enumPicType="1"/>
+		<G_bmp szFilename="7inch-background_11" nId="2" nTotalStatus="1" nWidth="800" nHeigth="480" nFileSize="1152040" bTransparent="0" cTransColor="0" enumPicType="1"/>
+		<G_bmp szFilename="7inch-background_12" nId="3" nTotalStatus="1" nWidth="800" nHeigth="480" nFileSize="1152040" bTransparent="0" cTransColor="0" enumPicType="1"/>
+		<G_bmp szFilename="TTCS LOGO" nId="4" nTotalStatus="1" nWidth="760" nHeigth="386" nFileSize="880120" bTransparent="0" cTransColor="0" enumPicType="0"/></G_bmplib>
+</G_Picture>
